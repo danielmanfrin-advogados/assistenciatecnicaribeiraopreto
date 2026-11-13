@@ -2,55 +2,55 @@
   "routes": [
     {
       "path": "/",
-      "title": "Início"
+      "title": "Assistência Técnica em Ribeirão Preto | TUDOCON"
     },
     {
       "path": "/servicos/instalacao-manutencao-ar-condicionado/",
-      "title": "Instalação e manutenção de ar-condicionado"
+      "title": "Instalação de Ar-Condicionado em Ribeirão Preto | TUDOCON"
     },
     {
       "path": "/servicos/conserto-lavadoras-lava-e-seca/",
-      "title": "Conserto de lavadoras e lava e seca"
+      "title": "Conserto de Lavadora em Ribeirão Preto | TUDOCON"
     },
     {
       "path": "/servicos/conserto-lava-loucas/",
-      "title": "Conserto de lava-louças"
+      "title": "Conserto de Lava-Louças em Ribeirão Preto | TUDOCON"
     },
     {
       "path": "/bairros/centro/",
-      "title": "Assistência técnica no Centro"
+      "title": "Assistência Técnica no Centro | Ribeirão Preto"
     },
     {
       "path": "/bairros/jardim-botanico/",
-      "title": "Assistência técnica no Jardim Botânico"
+      "title": "Assistência Técnica no Jardim Botânico | Ribeirão Preto"
     },
     {
       "path": "/bairros/nova-alianca/",
-      "title": "Assistência técnica na Nova Aliança"
+      "title": "Assistência Técnica na Nova Aliança | Ribeirão Preto"
     },
     {
       "path": "/bairros/vila-tiberio/",
-      "title": "Assistência técnica na Vila Tibério"
+      "title": "Assistência Técnica na Vila Tibério | Ribeirão Preto"
     },
     {
       "path": "/bairros/bonfim-paulista/",
-      "title": "Assistência técnica em Bonfim Paulista"
+      "title": "Assistência Técnica em Bonfim Paulista | Ribeirão Preto"
     },
     {
       "path": "/bairros/campos-eliseos/",
-      "title": "Assistência técnica nos Campos Elíseos"
+      "title": "Assistência Técnica nos Campos Elíseos | Ribeirão Preto"
     },
     {
       "path": "/sobre/",
-      "title": "Sobre"
+      "title": "Sobre a TUDOCON | Assistência Técnica em Ribeirão Preto"
     },
     {
       "path": "/perguntas-frequentes/",
-      "title": "Perguntas frequentes"
+      "title": "Dúvidas de Assistência Técnica em Ribeirão Preto"
     },
     {
       "path": "/politica-de-privacidade/",
-      "title": "Política de privacidade"
+      "title": "Política de Privacidade | TUDOCON"
     }
   ]
 }
