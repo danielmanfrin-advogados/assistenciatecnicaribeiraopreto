@@ -1,0 +1,37 @@
+# TUDOCON em Ribeirão Preto
+
+Portal de contato para solicitar informações sobre instalação e manutenção de ar-condicionado e conserto de eletrodomésticos em Ribeirão Preto, SP.
+
+## Serviços
+- [Instalação e manutenção de ar-condicionado](https://assistenciatecnicaribeiraopreto.vercel.app/servicos/instalacao-manutencao-ar-condicionado/): Informações para pedidos de instalação e manutenção de aparelhos de ar-condicionado.
+- [Conserto de lavadoras e lava e seca](https://assistenciatecnicaribeiraopreto.vercel.app/servicos/conserto-lavadoras-lava-e-seca/): Informações para pedidos de conserto de lavadoras e lava e seca.
+- [Conserto de lava-louças](https://assistenciatecnicaribeiraopreto.vercel.app/servicos/conserto-lava-loucas/): Informações para pedidos de avaliação e conserto de lava-louças.
+
+## Bairros
+- [Centro](https://assistenciatecnicaribeiraopreto.vercel.app/bairros/centro/)
+- [Jardim Botânico](https://assistenciatecnicaribeiraopreto.vercel.app/bairros/jardim-botanico/)
+- [Nova Aliança](https://assistenciatecnicaribeiraopreto.vercel.app/bairros/nova-alianca/)
+- [Vila Tibério](https://assistenciatecnicaribeiraopreto.vercel.app/bairros/vila-tiberio/)
+- [Bonfim Paulista](https://assistenciatecnicaribeiraopreto.vercel.app/bairros/bonfim-paulista/)
+- [Campos Elíseos](https://assistenciatecnicaribeiraopreto.vercel.app/bairros/campos-eliseos/)
+
+## Páginas institucionais
+- [Sobre](https://assistenciatecnicaribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://assistenciatecnicaribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://assistenciatecnicaribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas e respostas
+### Quais aparelhos recebem atendimento?
+O portal recebe pedidos para instalação e manutenção de ar-condicionado e conserto de lavadoras, lava e seca e lava-louças. Informe o modelo e o serviço para confirmar o atendimento.
+
+### Como pedir instalação de ar-condicionado?
+Informe o bairro, o tipo e o modelo do aparelho, o ambiente e se a infraestrutura já existe. O prestador confirma as informações necessárias e as condições do serviço.
+
+### Quando devo chamar para conserto de lavadora?
+Ao notar falha para iniciar, drenar, completar o ciclo, ruído diferente ou vazamento, descreva o sintoma ao prestador. Não abra o aparelho para tentar identificar a causa.
+
+### O que informar sobre uma lava-louças?
+Informe bairro, modelo, etapa do ciclo em que ocorre o problema e eventual código no visor. Avise também se há vazamento ou outro sinal relevante.
+
+### Como pedir um orçamento?
+Clique em WhatsApp ou Ligue agora e informe o bairro, o tipo e o modelo do aparelho e o que precisa. O prestador informa valores, prazos e condições no atendimento.

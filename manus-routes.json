@@ -1,0 +1,56 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Início"
+    },
+    {
+      "path": "/servicos/instalacao-manutencao-ar-condicionado/",
+      "title": "Instalação e manutenção de ar-condicionado"
+    },
+    {
+      "path": "/servicos/conserto-lavadoras-lava-e-seca/",
+      "title": "Conserto de lavadoras e lava e seca"
+    },
+    {
+      "path": "/servicos/conserto-lava-loucas/",
+      "title": "Conserto de lava-louças"
+    },
+    {
+      "path": "/bairros/centro/",
+      "title": "Assistência técnica no Centro"
+    },
+    {
+      "path": "/bairros/jardim-botanico/",
+      "title": "Assistência técnica no Jardim Botânico"
+    },
+    {
+      "path": "/bairros/nova-alianca/",
+      "title": "Assistência técnica na Nova Aliança"
+    },
+    {
+      "path": "/bairros/vila-tiberio/",
+      "title": "Assistência técnica na Vila Tibério"
+    },
+    {
+      "path": "/bairros/bonfim-paulista/",
+      "title": "Assistência técnica em Bonfim Paulista"
+    },
+    {
+      "path": "/bairros/campos-eliseos/",
+      "title": "Assistência técnica nos Campos Elíseos"
+    },
+    {
+      "path": "/sobre/",
+      "title": "Sobre"
+    },
+    {
+      "path": "/perguntas-frequentes/",
+      "title": "Perguntas frequentes"
+    },
+    {
+      "path": "/politica-de-privacidade/",
+      "title": "Política de privacidade"
+    }
+  ]
+}

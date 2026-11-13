@@ -1,0 +1,34 @@
+DOMINIO_BASE=https://assistenciatecnicaribeiraopreto.vercel.app
+
+TUDOCON em Ribeirão Preto
+========================
+Site estático multipágina, em português do Brasil. O domínio acima é a referência utilizada nas URLs canônicas e sitemap; substitua-o pelo domínio definitivo quando houver. Para alterar a origem canônica em todas as páginas, atualize os HTMLs, sitemap.xml e robots.txt antes de publicar.
+
+Estrutura e publicação
+----------------------
+O conteúdo das 13 rotas está em arquivos HTML reais. O projeto usa apenas HTML, CSS e JavaScript puros, sem dependências. Importe a pasta ou repositório na Vercel com Framework Preset “Other”, Build Command `npm run build` (definido em vercel.json) e Output Directory `dist`. Não há etapa de instalação de dependências. Para testar localmente, use `npm install --package-lock=false` e depois `npm run build`; isso evita gerar package-lock.json. Os arquivos estáticos ficam na raiz e o build os copia para dist/.
+
+Contato
+-------
+Edite somente config.js para trocar whatsapp e telefone. Use o formato internacional com 55, DDD e número, somente dígitos. Os números atuais são provisórios (5516900000000). Os links de WhatsApp e de ligação em todas as páginas são atualizados automaticamente por tracker.js. O endpoint Apps Script já está configurado.
+
+Planilha de cliques
+-------------------
+1. Abra a planilha Google usada para receber os contatos e acesse Extensões > Apps Script.
+2. Abra apps-script/Code.gs neste projeto, copie todo o arquivo e cole no editor Apps Script, substituindo o código anterior.
+3. Execute setup() uma vez e autorize a execução quando solicitado.
+4. Para atualizar o código publicado sem mudar a URL: Implantar > Gerenciar implantações > editar (ícone de lápis) a implantação existente > selecione Nova versão > Implantar. Em “Quem tem acesso”, deixe “Qualquer pessoa”. A implantação deve usar o mesmo endpoint /exec indicado em config.js.
+5. Para montar um relatório: na aba Cliques, selecione Inserir > Tabela dinâmica; em Linhas, adicione Site; em Valores, adicione Botão e resuma por COUNTA/CONT.VALORES. O cabeçalho do script chama-se “Botão”.
+
+Fotos
+-----
+As fotos do site são ilustrativas. Para trocar uma imagem, substitua o arquivo em img/ mantendo o mesmo nome: hero.jpg, sobre.jpg, instalacao-manutencao-ar-condicionado.jpg, conserto-lavadoras-lava-e-seca.jpg ou conserto-lava-loucas.jpg. Não alegue que a imagem ilustra o prestador, equipe, veículo ou empresa.
+
+Google Search Console e perfil de empresa
+------------------------------------------
+Cadastre o domínio definitivo no Google Search Console, conclua a verificação de propriedade conforme o método escolhido e envie `https://SEU-DOMINIO/sitemap.xml` na seção Sitemaps. Confirme que a URL enviada corresponde ao domínio publicado.
+Recomenda-se criar um Perfil da Empresa no Google apenas quando houver um prestador parceiro com endereço real e elegível. Não use endereço fictício; o portal não possui endereço próprio.
+
+Aviso
+-----
+Este site é um portal de contato e não presta o serviço diretamente. O atendimento é feito por prestadores parceiros da região. Valores, prazos e formas de pagamento são informados pelo prestador no atendimento.
